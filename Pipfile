@@ -10,6 +10,7 @@ pandas = "*"
 termcolor = "*"
 tqdm = "*"
 numpy = "*"
+gunicorn = "*"
 
 [dev-packages]
 
